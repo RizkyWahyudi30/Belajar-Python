@@ -62,6 +62,12 @@ if 5 > 2:
 print("lol")
 # baris yang berisi kalimat "ini syntax print" tidak akan muncul ketika di running / dijalankan kode nya
 
+# selain tanda pagar, kita juga bisa menggunakan kutip tiga, seperti ini :
+'''
+halo semua nya ini wahyu 
+hai halo semuanya 
+'''
+
 
 
 # MUNGKIN CUKUP UNTUK HARI PERTAMA DALAM PYTHON INI, KITA AKAN LANJUT KESERUANNYA DI HARI KEDUA YAH KAWAN KAWAN
