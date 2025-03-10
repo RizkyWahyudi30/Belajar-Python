@@ -49,3 +49,17 @@ ini dinamakan dengan case-sensitive
    contohnya ==> nama_depan_orang
 '''
 
+# contoh contohnya :
+# Camel Case :
+namaAwalKita = "Rizky"
+
+# Pascal Case :
+NamaAwalKita = "Rizky"
+
+# Snake Case :
+nama_awal_kita = "Rizky"
+
+print(namaAwalKita)
+print(NamaAwalKita)
+print(nama_awal_kita)
+
