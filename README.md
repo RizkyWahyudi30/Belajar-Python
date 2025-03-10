@@ -9,6 +9,7 @@ Saya Rizky Wahhyudi sebagai pemilik akun github ini, saya akan memberikan materi
 
 - [x] Syntax dasar python
 - [x] Variable di python
+- [x] Aturan Penamaan Variabel
 
 > [!NOTE]
 >
