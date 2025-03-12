@@ -11,6 +11,7 @@ Saya Rizky Wahhyudi sebagai pemilik akun github ini, saya akan memberikan materi
 - [x] Variable di python
 - [x] Aturan Penamaan Variable
 - [x] Aturan Output Variable
+- [x] Menetapkan beberapa value dalam satu Variable
 
 > [!NOTE]
 >
