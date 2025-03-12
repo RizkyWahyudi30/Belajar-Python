@@ -15,4 +15,4 @@ Saya Rizky Wahhyudi sebagai pemilik akun github ini, saya akan memberikan materi
 
 > [!NOTE]
 >
-> Repo ini akan terus memperbarui materi nya.
+> Repo ini akan terus memperbarui materi nya. Dan jika kalian ingin belajar sendiri kalian bisa mengunjungi website `w3schools.com`
