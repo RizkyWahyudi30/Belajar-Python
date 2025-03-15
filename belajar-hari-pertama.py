@@ -60,6 +60,9 @@ if 5 > 2:
 
 # ini syntax print
 print("lol")
+print("rizky")
+print("wahyu")
+print("ini wahyu")
 # baris yang berisi kalimat "ini syntax print" tidak akan muncul ketika di running / dijalankan kode nya
 
 # selain tanda pagar, kita juga bisa menggunakan kutip tiga, seperti ini :
