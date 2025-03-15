@@ -19,3 +19,5 @@ Saya Rizky Wahhyudi sebagai pemilik akun github ini, saya akan memberikan materi
 > Jir gua belom update lagi
 > WOILAH VENTAR UPDATE LAGI BOSKU
 > BIAR BISA IJO GA YA
+> lagiii boskuuhhh
+> update lagi
