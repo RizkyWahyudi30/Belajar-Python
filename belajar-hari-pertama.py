@@ -71,6 +71,11 @@ halo semua nya ini wahyu
 hai halo semuanya 
 '''
 
+'''
+ini contoh commad cuyyy,
+selain pake pager bisa pake three single quote
+'''
+
 
 
 # MUNGKIN CUKUP UNTUK HARI PERTAMA DALAM PYTHON INI, KITA AKAN LANJUT KESERUANNYA DI HARI KEDUA YAH KAWAN KAWAN
